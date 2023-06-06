@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 A simple stopwatch web application with start, stop and reset functionality.
 
 Go to the project directory and open index.html.
